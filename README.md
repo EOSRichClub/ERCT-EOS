@@ -1,4 +1,6 @@
-# EOSIO - The Most Powerful Infrastructure for Decentralized Applications
+# EOSIO - The Most Powerful Infrastructure for Decentralized ApplicationsERCT坚持开放的生态自治社区管理，对社区生态dapp开发提供ERCT链上合约通证的技术开发与迭代维护；
+ERCT合约通证经济的商业模型，将基于eos底层公链持续开发与迭代升级，为用户提供安全便捷的通证经济抵押、置换合约规则，同时我们对ram消耗提供了最大的市场投入，为用户提供更快、更经济实用的良好体验！我们为推动ERCT通证经济的商业模式发展不断的实践和创新，erct具有记载性、流通性、身份管理，持币用户可以参与自治社区dapp的投票、众筹、各项权益分配等；
+为提高社区运营管理，我们增设了持币账户分配协议，我们希望提高用户对ERCT发展的积极性和共识环境。
 
 [![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/EOSIO/eosio)
 
